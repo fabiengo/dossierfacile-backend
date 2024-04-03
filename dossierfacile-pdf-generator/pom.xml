@@ -24,7 +24,7 @@
 		<dossierfacile.common.version>0.0.1-SNAPSHOT</dossierfacile.common.version>
 
 		<!--PDF generation libraries-->
-		<jbig2.imageio.version>3.0.3</jbig2.imageio.version>
+		<jbig2.imageio.version>3.0.4</jbig2.imageio.version>
 		<jai-imageio-jpeg2000.version>1.4.0</jai-imageio-jpeg2000.version>
 		<jai-imageio-core.version>1.4.0</jai-imageio-core.version>
 		<metadata.extractor.version>2.18.0</metadata.extractor.version>
