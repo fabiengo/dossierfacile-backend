@@ -54,7 +54,7 @@
         <keycloak.version>21.1.2</keycloak.version>
 
         <!--Libraries needed for OVH storage-->
-        <openstack4j.version>3.11</openstack4j.version>
+        <openstack4j.version>3.12</openstack4j.version>
         <amazonaws.version>1.12.525</amazonaws.version>
     </properties>
 
