@@ -55,7 +55,7 @@
 
         <!--Libraries needed for OVH storage-->
         <openstack4j.version>3.11</openstack4j.version>
-        <amazonaws.version>1.12.525</amazonaws.version>
+        <amazonaws.version>1.12.757</amazonaws.version>
     </properties>
 
     <dependencies>
