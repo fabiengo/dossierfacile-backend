@@ -51,11 +51,11 @@
         <sentry.version>6.25.0</sentry.version>
         <commons-io.version>2.13.0</commons-io.version>
         <imageio.version>3.9.4</imageio.version>
-        <keycloak.version>21.1.2</keycloak.version>
+        <keycloak.version>25.0.4</keycloak.version>
 
         <!--Libraries needed for OVH storage-->
         <openstack4j.version>3.11</openstack4j.version>
-        <amazonaws.version>1.12.525</amazonaws.version>
+        <amazonaws.version>1.12.776</amazonaws.version>
     </properties>
 
     <dependencies>
